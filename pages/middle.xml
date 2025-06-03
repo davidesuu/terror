@@ -11,7 +11,7 @@
   <agent
     id="next_page_text"
     text="Proxima Pagina"
-    animation="glitch"
+    animation="pulse"
     y="480"
     x="640"
     on_click="goToPage('ending')"
