@@ -3,8 +3,12 @@
 
   <property name="pontuacao" default="0" />
   <property name="visitante" default="Aventureiro" />
+  <agent
+    id="123"
+    
   
   <start />
+  <prologue />
   <middle />
   <ending />
 </fable>
